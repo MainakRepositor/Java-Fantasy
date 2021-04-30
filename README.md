@@ -1,5 +1,7 @@
 # JAVA-Fantasy
-A collection of 200 Java Codes as a webpage
+A collection of 150+ Java Codes as a webpage
+
+## Made with 🧡 by Mainak Chaudhuri
 
 ![fs](https://user-images.githubusercontent.com/64016811/114976236-42a68800-9ea3-11eb-9e30-b8623cc1d53f.png)
 
